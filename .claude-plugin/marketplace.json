@@ -1,0 +1,22 @@
+{
+  "name": "edrickleong",
+  "owner": {
+    "name": "Edrick Leong",
+    "url": "https://github.com/edrickleong"
+  },
+  "description": "Edrick Leong's agent skills, as an installable Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "edrickleong-skills",
+      "source": "./",
+      "description": "Agent skills for real engineering — stacked pull requests, and more to come.",
+      "category": "engineering",
+      "keywords": [
+        "engineering",
+        "skills",
+        "git",
+        "pull-requests"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "edrickleong-skills",
+  "version": "0.1.1",
+  "description": "Edrick Leong's agent skills — workflow tooling for real engineering, packaged as a Claude Code plugin.",
+  "author": {
+    "name": "Edrick Leong",
+    "url": "https://github.com/edrickleong"
+  },
+  "homepage": "https://github.com/edrickleong/skills",
+  "repository": "https://github.com/edrickleong/skills",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "engineering",
+    "git",
+    "pull-requests",
+    "code-review"
+  ]
+}
